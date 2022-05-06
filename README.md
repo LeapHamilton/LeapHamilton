@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeapHamilton and have somehow reached the age of 49
+- 👋 Hi, I’m @LeapHamilton and have somehow reached the age of 50!
 - 👀 I’m interested in programming and web design
 - 🌱 I’m currently learning from scratch on the Odin project
 - 💞️ 
