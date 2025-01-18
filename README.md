@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LeapHamilton and have somehow reached the age of 50!
-- 👀 I’m interested in programming and web design
-- 🌱 I’m currently learning from scratch on the Odin project
+- 👋 Hi, I’m @LeapHamilton and am retraining in cyber security on TryHackMe.com
+- 👀 I previously studied HTML, CSS and Javascript on the Odin project
+- 🌱 Currently writing an old-fasioned text-adventure in Python called "Here Be Dragons"
 - 💞️ 
 - 📫 You can reach me at richard_dowling@hotmail.com
 
